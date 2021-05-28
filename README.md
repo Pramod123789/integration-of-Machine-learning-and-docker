@@ -1,5 +1,5 @@
 
-* Base OS should rhel8
+* Base OS rhel8
 * Docker should be installed installed
 * Install python inside container
 * Install libraries scikit-learn , pandas in container 
