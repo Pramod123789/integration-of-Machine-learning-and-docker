@@ -4,3 +4,4 @@ Prerequistes :
 * Docker installed
 * Install python inside container
 * Install libraries scikit-learn , pandas in container 
+* Copy the dataset to the container
