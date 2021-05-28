@@ -1,1 +1,5 @@
-# integration-of-Machine-learning-and-docker
+Prerequistes :
+
+* docker installed
+* Base OS rhel8
+* Install libraries scikit-learn , pandas in container 
